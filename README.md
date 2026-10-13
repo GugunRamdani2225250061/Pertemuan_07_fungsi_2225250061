@@ -26,10 +26,8 @@ dibaca, diuji, diperbaiki, dan digunakan kembali.
 5. kuis formatif_pertemuan 07
 6. README.md
 ```
-
 ## 3. Cara Menjalankan
 Jalankan setiap latihan melalui terminal VS Code.
-
 Contoh:
 ```bash
 python latihan/01_salam.py
@@ -39,7 +37,6 @@ python latihan/04_statistik_sederhana.py
 python latihan/05_scope.py
 python praktik/utilitas_matematika.py
 ```
-
 ## 4. Struktur Fungsi
 - `salam(nama, kelas)`: menampilkan salam berdasarkan nama dan kelas.
 - `luas_persegi_panjang(p, l)`: menghitung luas persegi panjang.
