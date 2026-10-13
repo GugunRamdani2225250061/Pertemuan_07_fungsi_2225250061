@@ -7,13 +7,11 @@
 - Mata Kuliah: Algoritma dan Pemrograman
 
 ## 1. Tujuan
-
 Mempelajari fungsi, parameter, argumen, return value, dan scope
 dalam Python. Program dibuat secara modular agar lebih mudah
 dibaca, diuji, diperbaiki, dan digunakan kembali.
 
 ## 2. Struktur Folder
-
 ```text
 1. Pertemuan_07_fungsi_2225250061
 2. latihan/
@@ -30,11 +28,9 @@ dibaca, diuji, diperbaiki, dan digunakan kembali.
 ```
 
 ## 3. Cara Menjalankan
-
 Jalankan setiap latihan melalui terminal VS Code.
 
 Contoh:
-
 ```bash
 python latihan/01_salam.py
 python latihan/02_luas_persegi_panjang.py
@@ -45,7 +41,6 @@ python praktik/utilitas_matematika.py
 ```
 
 ## 4. Struktur Fungsi
-
 - `salam(nama, kelas)`: menampilkan salam berdasarkan nama dan kelas.
 - `luas_persegi_panjang(p, l)`: menghitung luas persegi panjang.
 - `jumlah_n(n)`: menghitung jumlah bilangan 1 sampai n.
@@ -56,7 +51,6 @@ python praktik/utilitas_matematika.py
 - `tampilkan_menu()`: menampilkan pilihan operasi matematika.
 
 ## 5. Hasil Pengujian
-
 | No. | Fungsi | Input | Hasil |
 |---|---|---|---|
 | 1 | luas_persegi_panjang | 8, 5 | 40 |
@@ -68,7 +62,6 @@ python praktik/utilitas_matematika.py
 Hasil aktual diperiksa melalui terminal VS Code.
 
 ## 6. Refleksi
-
 Penggunaan fungsi membuat program lebih terstruktur karena
 setiap fungsi mempunyai tanggung jawab tertentu. Parameter
 memungkinkan fungsi menerima data yang berbeda, sedangkan
